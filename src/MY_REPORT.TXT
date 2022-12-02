@@ -1,0 +1,2 @@
+|    Module     | Rules engine enabled   |  Rules engine triggered    |                   Expected message                     |  Expected Loud tone    |
+|:------------: |:---------------------: |:-------------------------: |:-----------------------------------------------------: |:---------------------: |
