@@ -1,4 +1,4 @@
-// dv_json_rd_wr.cpp : This file contains the 'main' function. Program execution begins and ends there.
+  // dv_json_rd_wr.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -7,7 +7,7 @@
 
 #include "json_mngr.h"
 #include "json.h"
-#include "LOG.H"
+#include "log.h"
 
 using namespace std;
 
